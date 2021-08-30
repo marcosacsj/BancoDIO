@@ -1,0 +1,16 @@
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/bin/Debug/net5.0/BancoDIO
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/bin/Debug/net5.0/BancoDIO.deps.json
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/bin/Debug/net5.0/BancoDIO.runtimeconfig.json
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/bin/Debug/net5.0/BancoDIO.runtimeconfig.dev.json
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/bin/Debug/net5.0/BancoDIO.dll
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/bin/Debug/net5.0/ref/BancoDIO.dll
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/bin/Debug/net5.0/BancoDIO.pdb
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/obj/Debug/net5.0/BancoDIO.csproj.AssemblyReference.cache
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/obj/Debug/net5.0/BancoDIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/obj/Debug/net5.0/BancoDIO.AssemblyInfoInputs.cache
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/obj/Debug/net5.0/BancoDIO.AssemblyInfo.cs
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/obj/Debug/net5.0/BancoDIO.csproj.CoreCompileInputs.cache
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/obj/Debug/net5.0/BancoDIO.dll
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/obj/Debug/net5.0/ref/BancoDIO.dll
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/obj/Debug/net5.0/BancoDIO.pdb
+/home/marcos/Repositorio Local/dotNet/Estudo Dio/BancoDIO/obj/Debug/net5.0/BancoDIO.genruntimeconfig.cache
